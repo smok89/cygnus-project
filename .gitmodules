@@ -1,0 +1,9 @@
+[submodule "cygnus-app-frontend"]
+	path = cygnus-app-frontend
+	url = git@github.com:smok89/cygnus-app-frontend.git
+[submodule "cygnus-app-backend"]
+	path = cygnus-app-backend
+	url = git@github.com:smok89/cygnus-app-backend.git
+[submodule "cygnus-core"]
+	path = cygnus-core
+	url = git@github.com:smok89/cygnus-core.git
